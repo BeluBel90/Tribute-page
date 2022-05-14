@@ -1,0 +1,75 @@
+html{
+	font-size: 10px;
+	box-sizing: border-box;
+	margin:0;
+	background-color: #c5dedd;
+	font-family:leelawadee;
+}
+
+#main{
+	background-color: #fef9ff;
+	width:93%;
+	margin:2rem auto;
+	font-size:1.5rem;
+	padding:1rem;
+}
+
+#title{
+	font-size: 3.4rem;
+	text-align: center;
+	border:2px solid red;
+	
+}
+
+#subtitle{
+	text-align:center;
+	font-weight:2rem;
+	
+}
+
+#image{
+	width:100%;
+	margin:auto;
+	border:2px solid orange;
+	padding-top: 2rem;
+}
+
+/*https://cdn.cienradios.com/wp-content/uploads/sites/3/2017/05/vidas_y_retratos_rene_favaloro_7_large.jpg*/
+
+#img-caption{
+	color:rgb(117,117,51);
+}
+#description{
+	text-align: center;
+	margin:1 rem 1rem 5rem;
+	font-size:2rem;
+}
+
+#tribute-info{
+	text-align: center;
+	padding-top: 7rem;
+	padding-bottom: 4rem;
+	font-size: 3.5rem;
+
+}
+#img-div{
+	width: 95%;
+	margin:auto;
+}
+
+#tribute-link{
+      padding:0 5rem;
+      text-align: center;
+      font-weight: bold;
+}
+
+#logo-img{
+	width:20rem;
+	float: right;
+	margin:0 0.7rem;
+}
+
+
+section{
+	margin:4rem 2rem;
+}
